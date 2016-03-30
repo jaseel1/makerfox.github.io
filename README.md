@@ -37,4 +37,3 @@ Access via: [http://localhost:4000](http://localhost:4000)
 ### Copyright and license
 
 It is under [the MIT license](/LICENSE).
-# makerfox.github.io
